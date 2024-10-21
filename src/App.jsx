@@ -15,11 +15,11 @@ import Setting from "./pages/Dashboard/Setting";
 import General from "./pages/Dashboard/General";
 import Help from "./pages/Dashboard/Help";
 import { useEffect } from "react";
-import Create from "./component/homepage/create";
 import Forgot from "./component/homepage/Forgot";
 import Newpass from "./component/homepage/Newpass";
 import AboutUs from "./component/homepage/AboutUs";
 import Login from "./component/homepage/login";
+import Create from "./component/homepage/create";
 
 function App() {
 
