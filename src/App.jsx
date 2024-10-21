@@ -18,8 +18,8 @@ import { useEffect } from "react";
 import Forgot from "./component/homepage/Forgot";
 import Newpass from "./component/homepage/Newpass";
 import AboutUs from "./component/homepage/AboutUs";
-import Login from "./component/homepage/login";
 import Create from "./component/homepage/create";
+import Login from "./component/homepage/login";
 
 function App() {
 
